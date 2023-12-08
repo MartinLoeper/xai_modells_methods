@@ -1,4 +1,14 @@
+Usage
+-------------------
+
+- `./.envrc` -> confirm by typing 'y' + ENTER
+- `poetry run python ba_xai/app.py` (explicitly entering the venv in advance is not required)
+
+Notes
+-------------------
+
 Also was steht an?
+
 Diese Woche:
 Ich möchte eine funktionierende Oberfläche haben
 Ich möchte Daten hochladen können.
