@@ -1,0 +1,7 @@
+# we all inputs in the flake.nix if required
+# we auto-update nixpkgs to system's revision
+
+# TODO: we commit the flake.lock until the following fix is merged: https://github.com/NixOS/nix/pull/9324/files
+#flake.lock
+
+**/__pycache__/
